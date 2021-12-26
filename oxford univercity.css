@@ -1,0 +1,151 @@
+.mm{height: 130px;
+	   width: 1330px;
+	   background-color: pink;
+	   text-align: center;
+	   font-size: 55px;
+	   margin-top: -7px;
+	   padding-top: 20px;
+	   border:2px solid black;
+       
+	}
+
+.sec{font-size: 40px;}
+
+
+
+.logs{height: 168px;
+	width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 4px;
+    background-image: url(lame.png);
+
+}
+
+.menu{display: inline;
+	position: relative;
+	top: -30px;
+	background-color: yellow;
+	height: 300px;
+	font-size: 25px;
+	padding: 5px;}
+
+.main{height: 500px;
+	width: 1330px;
+	background-color: pink;
+	background-image: url(books.jpg);}
+	
+.pic2{background-image: url(book2.jpg);}
+
+.pic3{background-image: url(class.jpg);
+
+
+}
+.pic4{ background-image: url(classroom.jpg); }
+
+.bdy{background-color: pink;}
+
+.pera1{text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	letter-spacing: 2px;
+	text-decoration: underline;
+	color: blue;}
+
+.pic5{background-image: url(img1.jpg);
+
+}
+.pic9{background-image: url(img2.jpg);
+	background-size: cover;}
+
+.pic6{background-image: url(mur.jpg);}
+
+.pic7{ background-image: url(home.jpg);
+
+}
+
+.pic8{background-image: url(mrti.jpg);
+
+}
+
+.pera2{
+    text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	letter-spacing: 2px;
+	text-decoration: underline;
+	color: blue;}
+
+
+.pic10{background-image: url(mono.jfif);}
+
+.pic11{background-image: url(mono2.jpg);}
+
+.pic12{background-image: url(xx.jfif);}
+
+.pic13{background-image: url(ww.jfif);}
+
+.pic14{background-image: url(ee.png);}
+
+.pera3{text-align: center;
+	font-size: 23px;
+
+
+}
+
+
+.man{height: 200px;
+	width: 1350px;
+	background-color:  black;
+	padding-top: 20px;
+	text-decoration: underline;
+	color: white;}
+
+.kom{color: white;
+	position: relative;
+	top: 30px;
+	left: 70px;
+	font-size: 20px;
+	text-decoration: none;}
+	
+ul li{display: inline;
+	position: relative;
+	left: 550px;
+	font-size: 20px;
+	padding: 30px;
+    bottom: 95px;
+    color: white;
+    text-decoration: underline white;
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
